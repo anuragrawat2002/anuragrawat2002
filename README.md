@@ -19,6 +19,7 @@
 - 🌐 Full-stack developer, MERN stack
 - 🔨 Passionate about building real-world web projects
 - 📫 anuragrawat217@gmail.com
+- 
 
 ## Tech Stack
 
@@ -92,6 +93,7 @@
 ## Connect with Me
 - [GitHub](https://github.com/anuragrawat2002)
 - [LinkedIn](https://www.linkedin.com/in/anurag-rawat-640b9b285/)
+- [Leetcode](https://leetcode.com/u/Anurag-rawat/)
 - Email: anuragrawat217@gmail.com
 
 </td>
