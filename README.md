@@ -274,19 +274,23 @@ Java Fundamentals   Distributed Systems      Mock Interviews & SDE Prep
 <a href="https://leetcode.com/u/Anurag-rawat/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
-<a href="#">
+<a href="https://www.geeksforgeeks.org/profile/anuragradgsg">
 <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
-<a href="#">
+<a href="https://www.codechef.com/users/trip_mares_78">
 <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
-<a href="#">
+<a href="https://www.hackerrank.com/profile/anuragrawat217">
 <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+</a href = "https://www.reddit.com/user/TomorrowMountain924/">
+<img src = "https://www.malwarebytes.com/blog/news/2025/06/reddits-new-ai-powered-tools-scan-your-posts-to-serve-you-better-ads"/>
 </a>
 
 </div>
 
----
+
 
 ## 📜 Certifications
 
