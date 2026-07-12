@@ -284,9 +284,7 @@ Java Fundamentals   Distributed Systems      Mock Interviews & SDE Prep
 <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
-</a href = "https://www.reddit.com/user/TomorrowMountain924/">
-<img src = "https://www.malwarebytes.com/blog/news/2025/06/reddits-new-ai-powered-tools-scan-your-posts-to-serve-you-better-ads"/>
-</a>
+
 
 </div>
 
